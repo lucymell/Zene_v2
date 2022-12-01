@@ -6,18 +6,6 @@ A simple Music Recommender system built using Collaborative filtering and Spotif
  * MERN (MongoDB, Express, React, Node)
  * Bootstrap 4.0
  
-Feel free to contribute
-
-## Install dependencies:
- * run `npm install` in both client and server directories
-
-## Usage:
- * Terminal 1: <br>
-Zene> `cd server` <br>
-Zene/server> `npm start`
- * Terminal 2: <br>
- Zene> `cd client` <br>
- Zene/client> `npm start`
  
 ## Preview
 
